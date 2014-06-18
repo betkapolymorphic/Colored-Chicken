@@ -16,5 +16,5 @@ mapping color to image(wallpaper)<br>
 <img src="http://s18.postimg.org/5wgyvkhy1/DEMO3.png">
 <H3>Copy to clipboard and past to browser</H3>
 <img src="http://s18.postimg.org/fv1xi1rdj/DEMO4.png">
-<H1 href="https://github.com/betkapolymorphic/Colored-Chicken/releases/tag/1.0.0.0">DOWNLOAD<H1>
+<H1><a href="https://github.com/betkapolymorphic/Colored-Chicken/releases/tag/1.0.0.0">DOWNLOAD<a></H1>
 
